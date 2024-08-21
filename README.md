@@ -1,6 +1,10 @@
 # Conda Commands
 Here are some commonly used Conda commands.
 # 1. Basic Conda Commands
+- ## If not working in git bash conda:
+```bash
+source activate
+```
 - ## Create a new environment:
 ```bash
 conda create -n myenv python=3.8
